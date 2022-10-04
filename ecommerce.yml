@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400
-  secret: user_token
+  expiration_time: 864000
+  secret: user_token333
 
 gateway:
   ip: 10.0.0.25
